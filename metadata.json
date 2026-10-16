@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy Mobile App 04d8",
+  "description": "Mobile peer learning & academic accountability app connecting students for study circles, skill swaps, and AI-powered active recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
